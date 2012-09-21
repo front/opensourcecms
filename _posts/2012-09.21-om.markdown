@@ -1,7 +1,0 @@
----
-layout: post
-title: Om oss
----
-
-## Om oss
-Kommer snart
