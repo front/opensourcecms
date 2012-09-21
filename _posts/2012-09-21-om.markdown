@@ -4,4 +4,4 @@ title: Om oss
 ---
 
 ## Om oss
-Kommer snart
+Frontkom er et webbyrå som er baserer mye av sine tjenester og teknologi på Open Source løsninger. Både CMS og rammeverk. Vi har mest erfaring med "de 3 store" cms ene som er nevnt her, men jobber også med open source rammeverk som f.eks Ruby On Rails. Det er viktig for oss å gi våre kunder de beste rådene for valg av teknisk løsning.
