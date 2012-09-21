@@ -1,9 +1,8 @@
 ---
-layout: post
-published: true
-title: Wordpress vs Drupal
+layout: default
+published: false
 ---
 
-# Wordpress vs Drupal
+# How does it work?
 
-Enter Text in Markdown format.
+Enter Text in Markdown format.sdfgfdsg
