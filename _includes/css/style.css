@@ -2,7 +2,7 @@ body {
   font-size: 13px;
   line-height: 1.61538462em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #F0EDE2;
+  background: #E2EBF0;
 }
 
 p,
@@ -15,7 +15,12 @@ textarea {
 }
 
 a {
-  color: #8d0d1c;
+  color: #4BA649;
+}
+
+a:hover {
+  color: #4BA649;
+  text-decoration: underline;
 }
 
 .center {
@@ -45,9 +50,13 @@ img.rails {
   border-bottom-left-radius: 9px;
 }
 
-h1, h1 a,
-h2, h2 a {
-  color: #8C0A1B;
+h1, h2 {
+  font-family: 'Podkova';
+  font-weight: normal;
+}
+
+h1 a, h2 a {
+  color: #4BA649;
 }
 
 h1 {
@@ -147,4 +156,17 @@ h1 {
 
 footer .muted {
   margin-bottom: 2em;
+}
+
+.btn-info {
+    background-color: #4AA74A;
+    background-image: -moz-linear-gradient(center top , #58C554, #4AA548);
+}
+
+.btn-info:hover, active, disabled {
+    background-color: #4AA74A;
+}
+
+.span5.offset1 {
+  text-align: right;
 }
