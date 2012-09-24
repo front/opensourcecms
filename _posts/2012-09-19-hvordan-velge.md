@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hvordan velge riktig løsning
+description: Finn ut mer om hvordan du kan velge riktig løsning for ditt prosjekt
 ---
 
 ## Mer penger til andre ting

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wordpress
+description: Les mer om Wordpress CMS
 ---
 
 # Wordpress
