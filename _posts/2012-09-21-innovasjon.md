@@ -3,5 +3,5 @@ layout: post
 title: Innovasjon
 ---
 
-# Innovasjon med open source
+# Innovasjon med Open Source
 Kommer snart
