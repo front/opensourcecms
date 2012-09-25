@@ -177,3 +177,11 @@ footer .muted {
 .span5.offset1 {
   text-align: right;
 }
+
+.span4.cms-logos {
+  text-align: center;
+}
+
+.title {
+  line-height: 2em;
+}
