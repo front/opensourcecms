@@ -53,6 +53,8 @@ img.rails {
 h1, h2 {
   font-family: 'Podkova', serif;
   font-weight: normal;
+  line-height: 1.2em;
+  padding-bottom: 0.3em;
 }
 
 h1 a, h2 a {
