@@ -51,7 +51,7 @@ img.rails {
 }
 
 h1, h2 {
-  font-family: 'Podkova';
+  font-family: 'Podkova', serif;
   font-weight: normal;
 }
 
@@ -165,6 +165,7 @@ footer .muted {
 
 .btn-info:hover, active, disabled {
     background-color: #4AA74A;
+    background-image: -moz-linear-gradient(center top , #58C554, #4AA548);
 }
 
 .span5.offset1 {
