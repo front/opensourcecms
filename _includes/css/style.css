@@ -2,7 +2,7 @@ body {
   font-size: 13px;
   line-height: 1.61538462em;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #F0EDE2;
+  background: #E2EBF0;
 }
 
 p,
@@ -15,7 +15,12 @@ textarea {
 }
 
 a {
-  color: #8d0d1c;
+  color: #4BA649;
+}
+
+a:hover {
+  color: #4BA649;
+  text-decoration: underline;
 }
 
 .center {
@@ -45,9 +50,16 @@ img.rails {
   border-bottom-left-radius: 9px;
 }
 
-h1, h1 a,
-h2, h2 a {
-  color: #8C0A1B;
+h1, h2 {
+  font-family: 'Podkova', serif;
+  font-weight: normal;
+  line-height: 1.2em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+}
+
+h1 a, h2 a {
+  color: #4BA649;
 }
 
 h1 {
@@ -147,4 +159,32 @@ h1 {
 
 footer .muted {
   margin-bottom: 2em;
+}
+
+.btn-info{
+  background-color:#4AA548;
+  background-image:-moz-linear-gradient(top, #58C554, #4AA548);
+  background-image:-ms-linear-gradient(top, #58C554, #4AA548);
+  background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#58C554), to(#4AA548));
+  background-image:-webkit-linear-gradient(top, #58C554, #4AA548);
+  background-image:-o-linear-gradient(top, #58C554, #4AA548);
+  background-image:linear-gradient(top, #58C554, #4AA548);
+  background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#58C554', endColorstr='#4AA548', GradientType=0);
+  border-color:#4AA548 #4AA548 #4AA548;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}
+
+.btn-info:hover,.btn-info:active,.btn-info.active,.btn-info.disabled,.btn-info[disabled]{
+  background-color:#4AA548;
+}
+
+.span5.offset1 {
+  text-align: right;
+}
+
+.span4.cms-logos {
+  text-align: center;
+}
+
+.title {
+  line-height: 2em;
 }
