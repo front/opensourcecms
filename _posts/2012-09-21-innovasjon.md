@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Innovasjon
+description: Innovasjon med Open Source
 ---
 
-# Innovasjon med open source
+# Innovasjon med Open Source
 Kommer snart

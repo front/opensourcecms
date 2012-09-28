@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Om oss
+description: Informasjon om Frontkom, en Open Source-leverandør 
 ---
 
 ## Om oss
