@@ -15,4 +15,4 @@ En styrke ved Wordpress er det oversiktlige og standardiserte kontrollpanelet so
 
 Siden Wordpress er størst betaler de en pris da de blir et hovedmål for hacking og svindelforsøk. Det er derfor viktig å holde en Wordpress side oppdatert, da det med jevne mellomrom kommer sikkerhetsoppdateringer for å svare på sikkerhetstrusler.
 
-![Wordpress screenshot](/images/wordpress-screenshot.png)
+![Wordpress screenshot](../img/wordpress-screenshot.png)
