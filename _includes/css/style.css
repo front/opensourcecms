@@ -31,6 +31,9 @@ a:hover {
   body {
     padding-top: 58px;
   }
+  .masthead {
+    padding-top: 88px;
+  }
 }
 
 .page-header {
