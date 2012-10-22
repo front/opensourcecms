@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: .htaccess
+---
+Redirect 301 /demo/drupal http://drupal.opensourcecms.no
