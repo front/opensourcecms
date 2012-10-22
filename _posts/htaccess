@@ -2,4 +2,5 @@
 layout: none
 permalink: .htaccess
 ---
-Redirect 301 /demo/drupal http://drupal.opensourcecms.no
+RewriteEngine On
+RewriteRule ^demo/drupal$ http://drupal.opensourcecms.no [L,R=301]
