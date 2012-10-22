@@ -1,6 +1,0 @@
----
-layout: none
-permalink: .htaccess
----
-RewriteEngine On
-RewriteRule ^demo/drupal$ http://drupal.opensourcecms.no [L,R=301]
