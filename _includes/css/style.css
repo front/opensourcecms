@@ -32,6 +32,11 @@ a:hover {
   text-align: center;
 }
 
+.navbar a.brand {
+  background: url("/img/whale-logo.png") 0 5px no-repeat;
+  padding-left: 40px;
+}
+
 @media (min-width: 980px) {
   body {
     padding-top: 58px;
